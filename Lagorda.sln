@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lagorda.Infrastructure.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lagorda.Infrastructure.Interface", "Lagorda.Infrastructure.Interface\Lagorda.Infrastructure.Interface.csproj", "{D8461467-E7A5-4E68-9705-D8E5BF528C7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lagorda.Infrastructure.Repository", "Lagorda.Infrastructure.Repository\Lagorda.Infrastructure.Repository.csproj", "{750C1051-7D34-40BF-B827-AE5726446E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{D8461467-E7A5-4E68-9705-D8E5BF528C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8461467-E7A5-4E68-9705-D8E5BF528C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8461467-E7A5-4E68-9705-D8E5BF528C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750C1051-7D34-40BF-B827-AE5726446E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750C1051-7D34-40BF-B827-AE5726446E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750C1051-7D34-40BF-B827-AE5726446E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750C1051-7D34-40BF-B827-AE5726446E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{D7FD1BF7-A597-433F-B947-63155B18EFA9} = {769D783C-3D65-406E-9847-279116F5AEA7}
 		{30B65C8B-9FF2-4690-BB79-EFE13058EEC9} = {4C225326-F4A7-4127-9342-34DE4C0DCB38}
 		{D8461467-E7A5-4E68-9705-D8E5BF528C7C} = {4C225326-F4A7-4127-9342-34DE4C0DCB38}
+		{750C1051-7D34-40BF-B827-AE5726446E1C} = {4C225326-F4A7-4127-9342-34DE4C0DCB38}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C32E58D-3831-4CC6-B957-A98974A4954D}
