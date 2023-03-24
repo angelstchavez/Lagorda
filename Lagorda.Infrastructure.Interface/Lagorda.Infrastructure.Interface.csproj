@@ -52,6 +52,7 @@
     <Compile Include="ISaleRepository.cs" />
     <Compile Include="IUserRepository.cs" />
     <Compile Include="IPermissionRepository.cs" />
+    <Compile Include="IWarrantyRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
