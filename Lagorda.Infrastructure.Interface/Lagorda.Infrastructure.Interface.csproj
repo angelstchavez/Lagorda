@@ -44,6 +44,7 @@
     <Compile Include="ICustomerRepository.cs" />
     <Compile Include="IProductCategoryRepository.cs" />
     <Compile Include="IProductRepository.cs" />
+    <Compile Include="IProductSubCategoryRepository.cs" />
     <Compile Include="IProviderRepository.cs" />
     <Compile Include="IRoleRepository.cs" />
     <Compile Include="ISaleRepository.cs" />
