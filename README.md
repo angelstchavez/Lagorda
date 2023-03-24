@@ -1,10 +1,24 @@
 # Lagorda 🚀
 
-<a href="https://opensource.org/licenses/MIT"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-<a href="https://github.com/angelstchavez/Lagorda/graphs/contributors"><img alt="Contributors"  src="https://img.shields.io/github/contributors/angelstchavez/Lagorda"></a>
-<a href="https://github.com/angelstchavez/Lagorda/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/angelstchavez/Lagorda"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="Language" src="https://img.shields.io/badge/Language-C%23-blue.svg"></a>
-<a href="https://dotnet.microsoft.com/"><img alt="Framework" src="https://img.shields.io/badge/Framework-.NET%205-blueviolet.svg"></a>
+<a href="https://opensource.org/licenses/MIT">
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</a>
+<a href="https://github.com/angelstchavez/Lagorda/graphs/contributors">
+  <img alt="Contributors"  src="https://img.shields.io/github/contributors/angelstchavez/Lagorda">
+</a>
+<a href="https://github.com/angelstchavez/Lagorda/commits/main">
+  <img src="https://img.shields.io/github/commit-activity/y/angelstchavez/Lagorda" alt="GitHub commit activity">
+</a>
+<a href="https://github.com/angelstchavez/Lagorda/commits/main">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/angelstchavez/Lagorda">
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img alt="Language" src="https://img.shields.io/badge/Language-C%23-blue.svg">
+</a>
+<a href="https://dotnet.microsoft.com/">
+  <img alt="Framework" src="https://img.shields.io/badge/Framework-.NET%205-blueviolet.svg">
+</a>
+
 
 
 ## Descripción del proyecto 📄
