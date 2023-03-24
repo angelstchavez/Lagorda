@@ -49,6 +49,7 @@
     <Compile Include="ProductSubCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Provider.cs" />
+    <Compile Include="PurchaseDetail.cs" />
     <Compile Include="Role.cs" />
     <Compile Include="Sale.cs" />
     <Compile Include="SaleDetail.cs" />
